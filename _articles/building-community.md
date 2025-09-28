@@ -20,30 +20,30 @@ A welcoming community is an investment into your project's future and reputation
 
 One way to think about your project's community is through what @MikeMcQuaid calls the [contributor funnel](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/):
 
-![Contributor funnel](/assets/images/building-community/contributor_funnel_mikemcquaid.png)
+¡Sólo¡Sólo![embudo de los colaboradores.](/assets/images/building-community/contributor_funnel_mikemcquaid.png)
 
-As you build your community, consider how someone at the top of the funnel (a potential user) might theoretically make their way to the bottom (an active maintainer). Your goal is to reduce friction at each stage of the contributor experience. When people have easy wins, they will feel incentivized to do more.
+A medida que construye su comunidad, considere cómo alguien en la parte superior del embudo (un usuario potencial) podría teóricamente llegar a la parte inferior (un mantenedor activo). Su objetivo es reducir la fricción en cada etapa de la experiencia del contribuyente. Cuando las personas tienen victorias fáciles, se sentirán incentivadas a hacer más. medida que construye su comunidad, considere cómo alguien en la parte superior del embudo (un usuario potencial) podría teóricamente llegar a la parte inferior (un mantenedor activo). Su objetivo es reducir la fricción en cada etapa de la experiencia del contribuyente. Cuando las personas tienen victorias fáciles, se sentirán incentivadas a hacer más.
 
-Start with your documentation:
+Comience con su documentación:
 
-* **Make it easy for someone to use your project.** [A friendly README](../starting-a-project/#writing-a-readme) and clear code examples will make it easier for anyone who lands on your project to get started.
-* **Clearly explain how to contribute**, using [your CONTRIBUTING file](../starting-a-project/#writing-your-contributing-guidelines) and keeping your issues up-to-date.
+** *Haga que sea fácil para alguien usar su proyecto.** **Haga que sea fácil para alguien usar su proyecto.** [Un README amigable] (../starting-a-project/#writing-a-readme) y ejemplos de código claros harán que sea más fácil para cualquier persona que aterrice en su proyecto comenzar.[Un README amigable] (../starting-a-project/#writing-a-readme) y ejemplos de código claros harán que sea más fácil para cualquier persona que aterrice en su proyecto comenzar.**Make it easy for someone to use your project.** [A friendly README](../starting-a-project/#writing-a-readme) and clear code examples will make it easier for anyone who lands on your project to get started.
+** *Explique claramente cómo contribuir*** **Explique claramente cómo contribuir**, usando [su archivo CONTRIBUTING] (../starting-a-project/#writing-your-contributing-guidelines) y manteniendo sus problemas actualizados.[su archivo CONTRIBUTING] (../starting-a-project/#writing-your-contributing-guidelines) y manteniendo sus problemas actualizados.**Clearly explain how to contribute**, usando [your CONTRIBUTING file](../starting-a-project/#writing-your-contributing-guidelines) and keeping your issues up-to-date.
 * **Good first issues**: To help new contributors get started, consider explicitly [labeling issues that are simple enough for beginners to tackle](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub will then surface these issues in various places on the platform, increasing useful contributions, and reducing friction from users tackling issues that are too hard for their level.
 
 [GitHub's 2017 Open Source Survey](http://opensourcesurvey.org/2017/) showed incomplete or confusing documentation is the biggest problem for open source users. Good documentation invites people to interact with your project. Eventually, someone will open an issue or pull request. Use these interactions as opportunities to move them down the funnel.
 
-* **When someone new lands on your project, thank them for their interest!** It only takes one negative experience to make someone not want to come back.
+** **Cuando alguien nuevo aterriza en su proyecto, ¡agradece su interés!*** **Cuando alguien nuevo aterriza en su proyecto, ¡agradece su interés!**  Solo se necesita una experiencia negativa para que alguien no quiera volver.**When someone new lands on your project, thank them for their interest!** It only takes one negative experience to make someone not want to come back.
 * **Be responsive.** If you don't respond to their issue for a month, chances are, they've already forgotten about your project.
 * **Be open-minded about the types of contributions you'll accept.** Many contributors start with a bug report or a small fix. There are [many ways to contribute](../how-to-contribute/#what-it-means-to-contribute) to a project. Let people help how they want to help.
 * **If there's a contribution you disagree with,** thank them for their idea and [explain why](../best-practices/#learning-to-say-no) it doesn't fit into the scope of the project, linking to relevant documentation if you have it.
 
-<aside markdown="1" class="pquote">
+<<aside markdown="1" class="pquote">markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
   Contributing to open source is easier for some than others. There's a lot of fear of being yelled at for not doing something right or just not fitting in. (...) By giving contributors a place to contribute with very low technical proficiency (documentation, web content markdown, etc) you can greatly reduce those concerns.
-  <p markdown="1" class="pquote-credit">
+ <p Markdown="1" class="pquote-credit"> <p markdown="1" class="pquote-credit">
 — @mikeal, ["Growing a contributor base in modern open source"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
   </p>
-</aside>
+</aparte>
 
 The majority of open source contributors are "casual contributors": people who contribute to a project only occasionally. A casual contributor may not have time to get fully up to speed with your project, so your job is to make it easy for them to contribute.
 
@@ -51,13 +51,13 @@ Encouraging other contributors is an investment in yourself, too. When you empow
 
 ### Document everything
 
-<aside markdown="1" class="pquote">
+<aparte markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   Have you ever been to a (tech-) event where you didn't know anyone, but everyone else seemed to stand in groups and chat like old friends? (...) Now imagine you want to contribute to an open source project, but you don't see why or how this is happening.
   <p markdown="1" class="pquote-credit">
 — @janl, ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
-</aside>
+</aparte>
 
 When you start a new project, it may feel natural to keep your work private. But open source projects thrive when you document your process in public.
 
